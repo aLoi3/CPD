@@ -1,33 +1,23 @@
-# CPD
+# CPD Year 2 Term 2
 
-## Key skills
+## Week 1
+Back from summer holidays and ready to work. Am feeling much better regarding team game project.
 
-### Affective domain (managing emotions and mental states - 151)
-While I'm personally am stable with my emotions and mental states at most times, the ability to describe these mental states during both individual and team projects is very important. In such case, one can better understand himself and therefore find out whether these mental states can influence the overall outcome of a project or workflow. However, describing these states can be very difficult for me due to the little knowledge and understanding of my own emotions.
+This week we have been introduced to our new assignments and I feel a bit lost about COMP260 distributed systems, 
+because I'm not sure about the details of these systems, but the idea of making a MUD game is interesting nevertheless.
 
-Nevertheless, it can be an important skill I could develop for myself - to try and describe my mental states and emotions during the development processes I take part at. In which case, if I find negative influence during some states of mine, I could immediately fight it myself if it's something light-weighted or look for help if necessary.
+However, for AI module, I have no idea what I can do. I did have an idea before what tool I really want to make, but 
+I'm not 100% sure I can do that.
 
-#### Action
-During next year's term I will record my emotions and mental states in the weekly reports.
+## Week 2
+I have eventually decided to make an AI tool I wanted some time ago. It's a tool for Unity where desginers can easily 
+make an AI agent given different scripts and adding them into a list. It's a utility-based AI, so behaviours are executed 
+depending on the score. Behaviour's which has the highest score is going to be executed and these scored are calculated 
+within those scripts. The main one is just telling which on to execute. It has to be a designer-friendly tool, which is also 
+an easy and very fast in making unique agents.
 
-### Dispositional domain (time-management and remain disciplined - 213)
-Equally balancing my work between all assignments and personal time is extremely hard for me. I find myself distracted by games very easily and therefore do much less work than I was planning to in the first place. I'm very aware of this negative habit of mine, but can rarely do anything about it on my own. However, small changes to planning might help to prevent this over time. 
+Regarding COMP260, I barely understand anything about socketing. It's like a dark forest for me. During lectures, I somewhat 
+understand it, but when it gets to implementing it, I hardly know what does what. Hope it will get clearer for me when 
+we start implementing more stuff into our MUDs.
 
-Before, I was making a calendar, where I put work times. By doing this, I tried to make myself do some work each day for different assignments. Unfortunately, I was still distracted by other things and barely did any work during those times. This has probably been happening because I would either forget that I have planned it or didn't notice a notification about it on my phone. In either way, I should consider something that will make me remember to check my calendar or the tasks I have planned to do.
-
-#### Action
-Besides a calendar with working times, I will also have both a Trello board for big tasks I want to complete and sticky notes to remind me of smaller tasks that will hang close to my working place, so that I will always see and remember the work I need to do.
-
-### Cognitive domain (programming languages or frameworks - 128)
-During this term I have truly learned a lot while working on the game as well as on personal assignments. I feel much more comfortable with programming tasks, different languages and debugging. However, everything I do is not always high-performance. This includes some code duplication and high memory usage. In which case, I will need to learn programming patterns to better understand how I can prevent these issues in the future.
-
-This could help me with my workflow, so that I don't spend extra time making everything clean and better in performance. Also, it would surely make me more employable for software related jobs, which is always a benefit.
-
-#### Action
-At best, each week I will read one chapter of programming patters on gameprogrammingpatterns.com to get a grip of it.
-
-### Procedural domain (computing concepts and problem solving)
-
-
-#### Action
-
+## Week 3
